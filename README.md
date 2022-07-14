@@ -1,6 +1,6 @@
 ## Olá! Eu sou Tiago Henrique
 
-####  🌱 Estudante de análise e desenvolvimento de sistemas 3° semestre
+####  🌱 Estudante de análise e desenvolvimento de sistemas 4° semestre
 ####  🔭 Apaixonado por tecnologia 
 ####  🤞  Em busca da primeira oportunidade na area de front-end ✨✨✨✨
 
