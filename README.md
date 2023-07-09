@@ -1,8 +1,9 @@
 ## Olá! Eu sou Tiago Henrique
 
-####  🌱 Formado em análise e desenvolvimento de sistemas.
-####  🔭 Apaixonado por tecnologia, sempre em busca de novos desafios 
-####  🤞  Em busca da primeira oportunidade na area de front-end ✨✨✨✨
+#### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas, com mais de 2 anos de experiência em desenvolvimento de sites e aplicativos.
+#### 👨‍💻 Tenho habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, NodeJs e Bootstrap.
+#### 🧠 Além disso, sou bom em comunicação, trabalho em equipe, criatividade e resolução de problemas. 
+#### 🚀 Estou pronto para contribuir e alcançar grandes resultados na sua empresa!
 
 ##
 
